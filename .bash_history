@@ -30,3 +30,6 @@ ls
 cat minky
 yum update -y
 sudo su
+git llog
+git log
+sudo su
